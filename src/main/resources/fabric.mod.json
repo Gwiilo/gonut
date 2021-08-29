@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "gonut",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Gonut",
+  "description": "Go nuts",
   "authors": [
-    "Me!"
+    "Gwiilo"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.Gwiilo.gonut"
     ]
   },
   "mixins": [
