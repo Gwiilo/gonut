@@ -10,20 +10,20 @@
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/Gwiilo/gonut"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/gonut/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.Gwiilo.gonut"
+      "net.gwiilo.gonut.gonut"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+
   ],
 
   "depends": {
