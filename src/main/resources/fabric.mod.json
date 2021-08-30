@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.gwiilo.gonut.gonut"
+      "net.gwiilo.gonut.Gonut"
     ]
   },
   "mixins": [
